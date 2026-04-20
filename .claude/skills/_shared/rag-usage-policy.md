@@ -3,7 +3,7 @@
 SNSリサーチ結果とRAGデータを組み合わせて投稿文・台本を生成する際、
 **データ枯渇防止** と **テーマ一貫性** を両立させるための運用ルール。
 
-koyama-x-post / koyama-yt-script / yamamoto-x-post / yamamoto-yt-script
+koyama-x-post / koyama-yt-script
 の **ステップ④（RAG検索）** と **ステップ⑤（生成後）** で必ず適用すること。
 
 ---
